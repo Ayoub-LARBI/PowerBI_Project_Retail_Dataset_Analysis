@@ -2,7 +2,7 @@
 
 A 4-page Power BI dashboard built on a **synthetic, self-generated retail dataset** to practice data modeling, DAX, and dashboard UX/design. Not based on real company data.
 
-![Overview Page](screenshots\1_Overview.png)
+![Overview Page](screenshots/1_Overview.png)
 
 ## Project Purpose
 
